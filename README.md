@@ -1,6 +1,7 @@
 # flask_model_deployment
 Deployment of a machine learning/deep learning model with Flask. 
-credit to bonn0062 for code
+
+credit to Anne Bonner: bonn0062 for code
 
 
 We're going to deploy a PyTorch image classifier with Flask. 
