@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from image_predictor import get_image_prediction, transform_image
+from image_predictor import get_image_prediction
 
 import os
 
