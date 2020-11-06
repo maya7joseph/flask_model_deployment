@@ -1,1 +1,1 @@
-web: gunicorn flask_app:app
+web: gunicorn img_clsfr_flask_app:app
